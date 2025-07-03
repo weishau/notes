@@ -8,6 +8,7 @@
 ## 💡 學到的事
 - GitHub 私人 repo 必須額外授權 Colab 存取
 - `.ipynb` 檔案是 JSON 結構
+- 不能放Api_Key到網路上
 
 ## 🧠 思考與待辦
 - 明天嘗試 GitHub Pages
